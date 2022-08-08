@@ -6,7 +6,7 @@
 	"scripts": {
 		"start": "nodemon index.js"
 	},
-	"author": "Serlis Maldonado",
+	"author": "Fernando Morales",
 	"license": "ISC",
 	"dependencies": {
 		"ejs": "^3.1.8",
